@@ -1,2 +1,2 @@
 # ICMCTex
-Latex Header and packages to standardize documents
+Latex Header and packages to standardize my sicentific initiation documents
